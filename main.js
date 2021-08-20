@@ -146,4 +146,4 @@ function confettistart(){
   console.log(' ');
   console.log(' ');
   console.log(' ');
-  console.log('%c Oie, eu sei que você está vendo o codigo do site, mas é tão simples que qualquer um pode fazer! o codigo do site está em    https://github.com/Sty13/FoxyLand-Counter have fun! ', 'background: #ff0000; color: #ffe000; font-size: 24px')
+  console.log('%c Oie, o codigo do site está em https://github.com/FoxyB-Website/FoxyLand-Counter have fun! ', 'background: #ff0000; color: #ffe000; font-size: 24px')
