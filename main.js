@@ -35,7 +35,7 @@ function confettistart(){
           hour = minute * 60,
           day = hour * 24;
   
-    let foxyland = "Sep 28, 2021 05:17:00",
+    let foxyland = "Dez 30, 2021 05:17:00",
         countDown = new Date(foxyland).getTime(),
         x = setInterval(function() {    
           let now = new Date().getTime(),
