@@ -100,6 +100,5 @@ function confettistart(){
     
   for (var i = 0; i < 100; i = i + 1) {
   console.log(i);
-  console.log('bebug');
   }
   console.log('%c https://github.com/Sty13/FoxyLand-Counter have fun! ', 'background: #ff0000; color: #ffe000; font-size: 24px')
