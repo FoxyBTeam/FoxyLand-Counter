@@ -35,7 +35,7 @@ function confettistart(){
           hour = minute * 60,
           day = hour * 24;
   
-    let foxyland = "Dez 30, 2021 05:17:00",
+    let foxyland = "Dec 30, 2021 05:17:00",
         countDown = new Date(foxyland).getTime(),
         x = setInterval(function() {    
           let now = new Date().getTime(),
@@ -98,52 +98,8 @@ function confettistart(){
       }
   };
     
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log(' ');
-  console.log('%c Oie, o codigo do site está em https://github.com/FoxyB-Website/FoxyLand-Counter have fun! ', 'background: #ff0000; color: #ffe000; font-size: 24px')
+  for (var i = 0; i < 100; i = i + 1) {
+  console.log(i);
+  console.log('bebug');
+  }
+  console.log('%c https://github.com/Sty13/FoxyLand-Counter have fun! ', 'background: #ff0000; color: #ffe000; font-size: 24px')
