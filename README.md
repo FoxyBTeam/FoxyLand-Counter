@@ -7,4 +7,4 @@
 You can change the time in line 10 (let foxyland = "Jun 25, 2021 23:18:00",)<br>
 If you use this website please put credits <3
 <br><br>
-<b>Made with 💙 by Sty13</b>
+<b>Made with 💙 by Sty13 and Lupa</b>
